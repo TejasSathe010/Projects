@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c04add-cdb8-48b3-b749-6bf807eaef4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube-Spam-Detector-ML_APP/templates/result.html" afterDir="false" />
-    </list>
+    <list default="true" id="94c04add-cdb8-48b3-b749-6bf807eaef4c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
