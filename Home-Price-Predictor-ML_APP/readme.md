@@ -52,5 +52,5 @@ Run `app.py` in Python enviroment.
 
 
 
-Note: We still can improve the regressor model. Feel free to help. idea: log transformation, advance regression model (xgboost, lgbm)
+**Note :** We still can improve the regressor model. Feel free to help. idea: log transformation, advance regression model (xgboost, lgbm)
 # Thank you!
