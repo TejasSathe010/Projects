@@ -7,7 +7,7 @@ Deploy the model on flask framework.
 
 ## Do it yourself
 
-Run `python.py` in Python enviroment.
+Run `app.py` in Python enviroment.
 
 ## Output
 
